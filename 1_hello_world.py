@@ -1,5 +1,3 @@
-#Los comentarios con python se hacen con #
-
 import keyword;
 
 print("probando"); #Imprime por consola
